@@ -1,0 +1,62 @@
+/* Фон, шрифт и основной цвет текста */
+body {
+    background-color: #fff5f0;   /* светлый бежевый фон */
+    color: #3e1f0d;             /* тёмно-коричневый текст */
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Заголовки */
+h1, h2 {
+    color: #800000;             /* бордовый цвет */
+}
+
+/* Ссылки */
+a {
+    color: #800000;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Картинки */
+img {
+    border: 2px solid #800000;  /* бордовая рамка */
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+/* Списки */
+ul, ol {
+    margin-left: 20px;
+}
+
+/* Блоки параграфов */
+p {
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+/* Фон страницы бордовый, текст белый */
+body {
+    background-color: #800000; /* бордовый */
+    color: white;              /* текст белый */
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+/* Заголовки можно сделать черными для контраста */
+h1, h2, h3 {
+    color: black;
+}
+
+/* Ссылки */
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
